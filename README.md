@@ -11,13 +11,21 @@ Flask is used for connecting backend and web application which is used to chat w
 #To Run this project
 
 Clone this repository in you system.
-    Run-- main.py file
-      This is a jupyter notebook file
- After running this file you can either directly click on ip address that will flask server generate or you can go to template folder in the same directory and run home.html.
+
+Run-- main.py 
+
+This is a jupyter notebook file
+
+After running this file you can either directly click on ip address that will flask server generate or you can go to template folder in the same directory and run home.html.
  
  #Requirements
+ 
  pip install nltk
+ 
  also need to install nltk english dictionary of nltk.
+ 
  pip install AdaboostClassifier
+ 
  pip install DecisionTreeClassifier
+ 
  pip install flask
