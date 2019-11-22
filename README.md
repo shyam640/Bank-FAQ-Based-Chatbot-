@@ -16,7 +16,7 @@ Run-- main.py
 
 This is a jupyter notebook file
 
-After running this file you can either directly click on ip address that will flask server generate or you can go to template folder in the same directory and run home.html.
+After running this file you can either directly click on 127.0.0.1. This is a Ip address that is generate by flask when you srun this prograg or you can go to template folder in the same directory and run home.html.
  
  #Requirements
  
